@@ -502,3 +502,4 @@ cd /workspace/project/website
 clear
 cd images
 ls --color=auto
+mv header.png ..
