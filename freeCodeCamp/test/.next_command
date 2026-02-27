@@ -522,3 +522,5 @@ __vsc_prompt_cmd_original
 claer
 clear
 mv images/footer.jpeg client/assets/images
+cd /workspace/project/website
+find
