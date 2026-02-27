@@ -560,3 +560,4 @@ cd /workspace/project/website
 ls --color=auto
 clear
 touch package.json
+touch server.js
