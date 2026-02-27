@@ -403,3 +403,6 @@ find -name src
 cd /workspace/project/website
 find
 cd client
+mkdir
+clear
+mkdir assets
