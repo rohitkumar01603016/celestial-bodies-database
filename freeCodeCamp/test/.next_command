@@ -581,3 +581,4 @@ mv website website-boilerplate
 ls --color=auto
 clear
 cp --help
+cp -r website-boilerplate toms-website
