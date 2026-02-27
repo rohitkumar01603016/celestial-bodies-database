@@ -538,3 +538,4 @@ clea
 rclear
 clear
 mv CodeRoad.svg client/assets/icons
+mv freeCodeCamp.svg client/assets/icons
