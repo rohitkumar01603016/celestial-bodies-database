@@ -555,3 +555,4 @@ cleqar
 claer
 clear
 rm --help
+rm -r fonts
