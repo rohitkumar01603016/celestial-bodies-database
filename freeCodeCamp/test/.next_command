@@ -528,3 +528,4 @@ rmdir images
 rm images/background.jpg
 clear
 rmdir images
+ls --color=auto
