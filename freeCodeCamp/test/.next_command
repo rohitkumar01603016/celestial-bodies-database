@@ -525,3 +525,4 @@ mv images/footer.jpeg client/assets/images
 cd /workspace/project/website
 find
 rmdir images
+rm images/background.jpg
