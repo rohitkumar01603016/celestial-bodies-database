@@ -506,3 +506,4 @@ mv header.png ..
 cd /workspace/project/website/images
 ls --color=auto
 cd ..
+ls --color=auto
