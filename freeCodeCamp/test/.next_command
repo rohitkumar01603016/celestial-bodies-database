@@ -558,3 +558,5 @@ rm --help
 rm -r fonts
 cd /workspace/project/website
 ls --color=auto
+clear
+touch package.json
