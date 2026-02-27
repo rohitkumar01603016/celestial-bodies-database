@@ -513,3 +513,12 @@ clear
 mv header.png client/assets/images
 find -name header.png
 find -name footer.jpeg
+images/footer.jpeg
+clear
+move
+images/footer.jpeg
+clear
+__vsc_prompt_cmd_original
+claer
+clear
+mv images/footer.jpeg client/assets/images
