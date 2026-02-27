@@ -534,3 +534,7 @@ clear
 mv CodeAlly.svg client/assets/icons
 cd /workspace/project/website
 find
+clea
+rclear
+clear
+mv CodeRoad.svg client/assets/icons
