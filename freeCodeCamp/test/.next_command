@@ -530,3 +530,5 @@ clear
 rmdir images
 ls --color=auto
 mkdir client/assets/icons
+clear
+mv CodeAlly.svg client/assets/icons
