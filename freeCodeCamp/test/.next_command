@@ -532,3 +532,5 @@ ls --color=auto
 mkdir client/assets/icons
 clear
 mv CodeAlly.svg client/assets/icons
+cd /workspace/project/website
+find
