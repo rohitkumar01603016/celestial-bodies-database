@@ -571,3 +571,5 @@ claerr
 clear
 more README.md
 echo from the command line >> README.md
+clear
+more README.md
