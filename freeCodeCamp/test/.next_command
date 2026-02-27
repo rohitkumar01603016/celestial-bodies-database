@@ -575,3 +575,4 @@ clear
 more README.md
 echo for the freeCodeCamp bash lessons >> README.md
 more README.md
+cd ..
